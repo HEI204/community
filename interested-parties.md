@@ -49,3 +49,5 @@ it is kept up to date.
 | Mike Yeung            |                 |                                                     | [yysun316](https://github.com/yysun316)                  | N/A |
 | Kay Yan               | DaoCloud        | Kubespray, Nerdctl                                  | [yankay](https://github.com/yankay)                      | N/A |
 | Dharmik Thakkar       |                 |                                                     | [thakkardharmik] (https://github.com/thakkardharmik)      |N/A|
+| Ryo Tozawa            |                 |                                                    | [tozastation](https://github.com/tozastation)             |                 |
+
